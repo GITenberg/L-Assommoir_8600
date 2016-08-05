@@ -1,0 +1,41 @@
+_repo: L-Assommoir_8600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: The seventh novel in the Rougon-Macquart cycle, L'Assommoir (1877), is
+  the story of a woman's struggle for happiness in working-class Paris. It was a contemporary
+  bestseller, outraged conservative critics, and launched a passionate debate about
+  the legitimate scope of modern literature. At the centre of the novel stands Gervaise,
+  who starts her own laundry and for a time makes a success of it. But her husband
+  Coupeau squanders her earnings in the Assommoir, the local drinking shop, and gradually
+  the pair sink into poverty and squalor. L'Assommoir is the most finely crafted of
+  Zola's novels, and this new translation captures not only the brutality but also
+  the pathos of its characters' lives. This book is a powerful indictment of nineteenth-century
+  social conditions, and the Introduction examines its relation to politics and art
+  as well as its explosive effect on the literary scene.
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class women -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Married women -- Fiction'
+- GITenberg
+title: L'Assommoir
+url: http://www.gutenberg.org/ebooks/8600
