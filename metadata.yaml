@@ -1,5 +1,8 @@
 _repo: L-Assommoir_8600
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -22,6 +25,8 @@ description: The seventh novel in the Rougon-Macquart cycle, L'Assommoir (1877),
   the pathos of its characters' lives. This book is a powerful indictment of nineteenth-century
   social conditions, and the Introduction examines its relation to politics and art
   as well as its explosive effect on the literary scene.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8600#L-Assommoir
 gutenberg_issued: '2006-04-27'
 gutenberg_type: Text
 identifiers:
